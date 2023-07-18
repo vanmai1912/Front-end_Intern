@@ -1,0 +1,1 @@
+def change xx xx[0]=0  xx = [4,5,6] end temp = [1,2,3] change(temp) puts temp
